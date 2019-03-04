@@ -1,0 +1,15 @@
+F:\WPF\VideoPlayer\VideoPlayer\bin\Release\VideoPlayer.exe.config
+F:\WPF\VideoPlayer\VideoPlayer\bin\Release\VideoPlayer.exe
+F:\WPF\VideoPlayer\VideoPlayer\bin\Release\VideoPlayer.pdb
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.csprojResolveAssemblyReference.cache
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\MainWindow.g.cs
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\App.g.cs
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer_MarkupCompile.cache
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer_MarkupCompile.lref
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\MainWindow.baml
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.g.resources
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.Properties.Resources.resources
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.csproj.GenerateResource.Cache
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.csproj.CoreCompileInputs.cache
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.exe
+F:\WPF\VideoPlayer\VideoPlayer\obj\Release\VideoPlayer.pdb
